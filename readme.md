@@ -13,7 +13,7 @@ A passionate freelance Motion designer and software engineer based in Hannover,G
 
 - 🌱 I’m currently learning everything 
 - 🎮 A passionate gamer and streamer
-- 🎨 Art hoe: Anything related to art turn me ON
+- 🎨 Art hoe: Anything related to art turns me ON
 - 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
