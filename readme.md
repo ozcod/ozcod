@@ -1,6 +1,6 @@
 ### Hi there, I'm Ozair - aka [ozcod] 👋
 
-[![Behance](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/behance.svg)](https://www.behance.net/ozartistry)
+[![Behance][<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/behance.svg />]](https://www.behance.net/ozartistry)
 [![Vimeo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg)] (https://vimeo.com/ozstudiosxyz) 
 
 ## I'm a Student, Freelance Designer & Developer !!
