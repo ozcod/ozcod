@@ -1,6 +1,7 @@
-### Hi there, I'm Ozair - aka [Ozcod][website] 👋
+### Hi there, I'm Ozair - aka [ozcod] 👋
 
-[![Website](https://www.behance.net/ozartistry)](Behance)
+[![Behance](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/behance.svg)](https://www.behance.net/ozartistry)
+[![Vimeo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg)] (https://vimeo.com/ozstudiosxyz) 
 
 ## I'm a Student, Freelance Designer & Developer !!
 
@@ -73,6 +74,6 @@
 [Behance]: https://codeSTACKr.com
 [twitter]: https://twitter.com/forsakenpirate
 [youtube]: https://www.youtube.com/c/ForsakenPirate
-[instagram]: https://instagram.com/oz_atistry
+[instagram]: https://instagram.com/oz_artistry
 [linkedin]: https://www.linkedin.com/in/ozairahmad/
 [Vimeo]: https://vimeo.com/ozstudiosxyz
