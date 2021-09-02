@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ozcod.ozcod)
 <br />
 
-### I'm a Software Engineer Graduate, Motion Designer & Developer !!
+### I'm a Graduate Software Engineer, Motion Designer & Developer !!
 
 A passionate freelance Motion designer and software engineer based in Hannover,Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
 
