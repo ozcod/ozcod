@@ -35,11 +35,11 @@ A passionate freelance Motion designer and software engineer based in Hannover,G
 - [My Mancave](https://youtu.be/vhJuwjaNmUQ)
 <!-- YOUTUBE:END -->
 
- [To Main Channel...](https://www.youtube.com/c/ForsakenPirate)
+ [watch more...](https://www.youtube.com/c/ForsakenPirate)
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozcod&show_icons=true&theme=radical)
+![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozcod&show_icons=true&theme=radical)
 
 
 [Behance]: https://www.behance.net/ozartistry
