@@ -32,9 +32,7 @@ A passionate freelance Motion designer and software engineer based in Hannover,G
 ### My Youtube Channel
 
 <!-- YOUTUBE:START -->
-- [My Setup](https://youtu.be/vhJuwjaNmUQ)
-- [Call of Duty Warzone - Highlighs](https://youtu.be/4YE6US9ZAuI)
-- [Father of Sniper ](https://youtu.be/4eNSwCRit2M)
+- [My Mancave](https://youtu.be/vhJuwjaNmUQ)
 <!-- YOUTUBE:END -->
 
  [To Main Channel...](https://www.youtube.com/c/ForsakenPirate)
