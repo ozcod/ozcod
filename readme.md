@@ -9,7 +9,7 @@
 
 ### I'm a Graduate Software Engineer, Motion Designer & Developer !!
 
-A passionate Motion designer and software engineer based in Hannover,Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
+A passionate Motion designer and full stack developer based in Hannover,Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
 
 - 🌱 I’m currently learning everything 
 - 🎮 A passionate gamer and streamer
