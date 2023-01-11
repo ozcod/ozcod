@@ -11,7 +11,7 @@
 
 A passionate full stack developer & Motion designer based in Bamberg,Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning JavaScript. 
 - 🎮 A passionate gamer and streamer
 - 🎨 Art hoe: Anything related to art turns me ON
 - 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
@@ -32,15 +32,12 @@ A passionate full stack developer & Motion designer based in Bamberg,Germany. my
 ### My Youtube Channel
 
 <!-- YOUTUBE:START -->
-- [My Mancave](https://youtu.be/vhJuwjaNmUQ)
+- [My Rig](https://youtu.be/vhJuwjaNmUQ)
 <!-- YOUTUBE:END -->
 
  [watch more...](https://www.youtube.com/c/ForsakenPirate)
 
 ---
-
-![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozcod&show_icons=true&theme=radical)
-
 
 [Behance]: https://www.behance.net/ozartistry
 [twitter]: https://twitter.com/forsakenpirate
