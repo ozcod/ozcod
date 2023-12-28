@@ -10,9 +10,9 @@
 
 A passionate full stack developer & Motion designer based in Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
 
-- 🌱 I’m currently working on development of Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
+- 🌱 I’m currently developming a Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
 - 🎨 Working as freelance motion designer, bringing the art ideas into the cart. 
-- 🎮 A passionate gamer and streamer , probably grinding on Dark Souls or Call of duty.
+- 🎮 A passionate gamer and streamer , probably grinding on Dark Souls or Call of duty during free time.
 - 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
