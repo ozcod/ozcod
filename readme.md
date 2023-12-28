@@ -6,13 +6,13 @@
 [<img align="left" alt="ozcod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-### I'm a Graduate Software Engineer, Motion Designer & Developer !!
+### I'm a Graduate Software Engineer & Motion Designer!!
 
-A passionate full stack developer & Motion designer based in Bamberg,Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
+A passionate full stack developer & Motion designer based in Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
 
-- 🌱 I’m currently learning JavaScript. 
-- 🎮 A passionate gamer and streamer
-- 🎨 Art hoe: Anything related to art turns me ON
+- 🌱 I’m currently working on development of Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
+- 🎨 Working as freelance motion designer, bringing the art ideas into the cart. 
+- 🎮 A passionate gamer and streamer , probably grinding on Dark Souls or Call of duty.
 - 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
