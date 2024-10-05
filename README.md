@@ -30,7 +30,7 @@ A passionate MERN dev & Motion designer based in Germany. my passion for develop
 ### Let's Connect :coffee:
 
  <p align="center">
-   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="https://img.icons8.com/?size=38&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn"/></a>
+   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="linkedin.svg" alt="LinkedIn"/></a>
    <a href="https://vimeo.com/ozstudiosxyz"><img src="https://img.icons8.com/?size=35&id=jJNDJPy85O1o&format=png&color=000000" alt="Vimeo"/></a>
    <a href="https://twitter.com/forsakenpirate"><img src="https://img.icons8.com/?size=41&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
 
