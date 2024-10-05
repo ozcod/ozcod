@@ -1,16 +1,20 @@
 ### Hi there, I'm Ozair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ![](https://visitor-badge.glitch.me/badge?page_id=ozcod.ozcod)
 
+<!--
+**ozcod/ozcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
 
 🧑‍💼 About Me:
 
-A passionate MERN dev & Motion designer based in Germany. my passion for development lies with ideas and bringing them to life with UI.
-
-- 💻 I’m currently working at My website  [OA]: https://www.ozairahmad.com 👀 
-- 🌱 I’m learning DevOps and Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
-- 🎨 Working as freelance motion designer, bringing the art ideas into the cart. 
-- 🎮 A passionate gamer and streamer , probably grinding on Dark Souls or Call of duty during free time.
-- 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- ✍ MERN stack dev and Motion designer based in Germany ...
+- 💻 I’m currently working at **ozairahmad.com** <a href="https://www.ozairahmad.com"><img src="badge-check.svg" alt="Port"/></a> ...
+- 🌱 I’m learning DevOps and Web3 ... 
+- 🎨 Freelance Motion designer, bringing the art to the cart ...
+- 🎮 A passionate gamer and streamer, Dark Souls or Call of duty ...
+- 💼 How to reach me: <a href="https://www.ozairahmad.com">ozairahmad.com</a> or [email](mailto:ozair.isb@gmail.com) ...
 
 ### Languages and Tools: 
 
@@ -22,16 +26,12 @@ A passionate MERN dev & Motion designer based in Germany. my passion for develop
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
----
-<!-- YOUTUBE:START -->
-- <a><img src="https://img.icons8.com/?size=20&id=19318&format=png&color=000000 " alt="LinkedIn"/></a>[My Workspace](https://youtu.be/vhJuwjaNmUQ)
-<!-- YOUTUBE:END -->
-
 ### Let's Connect :coffee:
 
  <p align="center">
    <a href="https://www.linkedin.com/in/ozairahmad/"><img src="linkedin.svg" alt="LinkedIn"/></a>
-   <a href="https://vimeo.com/ozstudiosxyz"><img src="https://img.icons8.com/?size=35&id=jJNDJPy85O1o&format=png&color=000000" alt="Vimeo"/></a>
-   <a href="https://twitter.com/forsakenpirate"><img src="https://img.icons8.com/?size=41&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
+   <a href="https://vimeo.com/ozstudiosxyz"><img src="link.svg" alt="Vimeo"/></a>
+   <a href="https://twitter.com/forsakenpirate"><img src="x.svg" alt="Twitter"/></a>
+   <a href="https://youtu.be/vhJuwjaNmUQ" ><img src="youtube.svg" /> </a>
 
  </p>
