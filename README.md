@@ -1,12 +1,12 @@
 ### Hi there, I'm Ozair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ![](https://visitor-badge.glitch.me/badge?page_id=ozcod.ozcod)
 
 
+🧑‍💼 About Me:
 
-### I'm a Graduate Software Engineer & Motion Designer!!
+A passionate MERN dev & Motion designer based in Germany. my passion for development lies with ideas and bringing them to life with UI.
 
-A passionate full stack developer & Motion designer based in Germany. my passion for development lies with ideas and bringing them to life with UI. i take excellent care in the experience, architecture, and code quality of the things I build.
-
-- 🌱 I’m currently developming a Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
+- 💻 I’m currently working at My website  [OA]: https://www.ozairahmad.com 👀 
+- 🌱 I’m learning DevOps and Corporate Capacity Planing tool using PHP CodeIgnator and JavaScipt Treegrid framework. 
 - 🎨 Working as freelance motion designer, bringing the art ideas into the cart. 
 - 🎮 A passionate gamer and streamer , probably grinding on Dark Souls or Call of duty during free time.
 - 💼 any freelance work? do reach, [email](mailto:ozair.isb@gmail.com)
@@ -23,27 +23,15 @@ A passionate full stack developer & Motion designer based in Germany. my passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
-
-### My Youtube Channel
-
 <!-- YOUTUBE:START -->
-- [My Rig](https://youtu.be/vhJuwjaNmUQ)
+- <a><img src="https://img.icons8.com/?size=20&id=19318&format=png&color=000000 " alt="LinkedIn"/></a>[My Workspace](https://youtu.be/vhJuwjaNmUQ)
 <!-- YOUTUBE:END -->
 
- [watch more at Youtube...](https://www.youtube.com/c/ForsakenPirate)
+### Let's Connect :coffee:
 
-[<img align="left" alt="ozcod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ozcod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][Behance]
-[<img align="left" alt="ozcod" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vimeo.svg" />][Vimeo]
-[<img align="left" alt="ozcod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+ <p align="center">
+   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="https://img.icons8.com/?size=38&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn"/></a>
+   <a href="https://vimeo.com/ozstudiosxyz"><img src="https://img.icons8.com/?size=35&id=jJNDJPy85O1o&format=png&color=000000" alt="Vimeo"/></a>
+   <a href="https://twitter.com/forsakenpirate"><img src="https://img.icons8.com/?size=41&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
 
----
-
-
-[Behance]: https://www.behance.net/ozartistry
-[twitter]: https://twitter.com/forsakenpirate
-[youtube]: https://www.youtube.com/c/ForsakenPirate
-[instagram]: https://instagram.com/oz_artistry
-[linkedin]: https://www.linkedin.com/in/ozairahmad/
-[Vimeo]: https://vimeo.com/ozstudiosxyz
+ </p>
