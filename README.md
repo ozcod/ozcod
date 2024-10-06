@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ### Let's Connect :coffee:
 
  <p align="center">
-   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="linkedin.svg" alt="LinkedIn"/></a>
-   <a href="https://vimeo.com/ozstudiosxyz"><img src="link.svg" alt="Vimeo"/></a>
-   <a href="https://twitter.com/forsakenpirate"><img src="x.svg" alt="Twitter"/></a>
-   <a href="https://youtu.be/vhJuwjaNmUQ" ><img src="youtube.svg" /> </a>
+   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="img/linkedin.svg" alt="LinkedIn"/></a>
+   <a href="https://vimeo.com/ozstudiosxyz"><img src="img/link.svg" alt="Vimeo"/></a>
+   <a href="https://twitter.com/forsakenpirate"><img src="img/x.svg" alt="Twitter"/></a>
+   <a href="https://youtu.be/vhJuwjaNmUQ" ><img src="img/youtube.svg" /> </a>
 
  </p>
