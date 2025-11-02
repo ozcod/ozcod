@@ -6,17 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+- Full-stack developer at @Bosch 🛠️ → Passonaite about **LLMs** & **AI**  <br />
+- Graduate from [CUI](https://islamabad.comsats.edu.pk/Default.aspx) → **Bachelor's in Software Engineering** 👨🏻‍💻 <br /> 
+- [DM me → ](mailto:hello@ozairahmad.com) 
 
-🧑‍💼 About Me:
-
-- ✍ Full-stack developer...
-- 💻 I’m currently working at  <a href="https://www.ozairahmad.com">my portfolio</a> ...
-- 🌱 I’m always learning new frameworks ... 
-- 🎨 Expert UI and UX ...
-- 🎮 Passionate about AI and Gaming (Dark Souls & Call of duty) ...
-- 💼 How to reach me: [email](mailto:ozair.isb@gmail.com) ...
-
-### Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -26,12 +19,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Let's Connect :coffee:
-
- <p align="center">
-   <a href="https://www.linkedin.com/in/ozairahmad/"><img src="img/linkedin.svg" alt="LinkedIn"/></a>
-   <a href="https://vimeo.com/ozstudiosxyz"><img src="img/link.svg" alt="Vimeo"/></a>
-   <a href="https://twitter.com/forsakenpirate"><img src="img/x.svg" alt="Twitter"/></a>
-   <a href="https://youtu.be/vhJuwjaNmUQ" ><img src="img/youtube.svg" /> </a>
-
- </p>
