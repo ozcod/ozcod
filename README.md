@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- Full-stack developer at @Bosch 🛠️ → Passonaite about **LLMs** & **AI**  <br />
+- IT Specialist & Full-stack developer 🛠️ → Passonaite about **LLMs** & **AI**  <br />
 - Graduate from [CUI](https://islamabad.comsats.edu.pk/Default.aspx) → **Bachelor's in Software Engineering** 👨🏻‍💻 <br /> 
 - [DM me → ](mailto:hello@ozairahmad.com) 
 
